@@ -63,6 +63,7 @@
     max-width: 1200px;
     margin: 30px auto;
     padding: 0 15px;
+    min-height: 100vh;
   }
   
   /* CARD */
@@ -119,6 +120,10 @@
   }
   
   /* TABLE */
+  .education-container {
+    overflow-x: auto;
+  }
+
   .education-table {
     width: 100%;
     border-collapse: collapse;
@@ -175,6 +180,7 @@
   
     .nav-list {
       flex-wrap: wrap;
+      justify-content: normal;
     }
   
     .img-cv {

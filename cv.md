@@ -73,7 +73,5 @@ function bubbleSort(arr) {
 - English - A2 (B1 in process…)
 
 
-
-
 <img src="assets/img/rs_school_js.svg" alt="Alexander Hatkov" width="80" height="80" />
 
