@@ -1,2 +1,2 @@
 # rsschool-cv
-CV#1
+ [My CV] https://Bendar01.github.io/rsschool-cv/
